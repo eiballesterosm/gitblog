@@ -49,3 +49,10 @@ body
 {
     padding: 1em;
 }
+
+#footer{
+    background-color: #DDD;
+    color:#33A;
+    text-align: center;
+    padding: 0.5em;
+}
